@@ -2,6 +2,7 @@ QCGame Alerts - Custome plugin for Queercraft Minecraft server, to announce when
 and define the flag 'qcga-game (Minigame name)'. 
 
 There are also four base commands:
+
 /qcga announce - Console only
 /qcga reload - Reload config
 /qcga cooldown - Enable/Disable cooldown mode
