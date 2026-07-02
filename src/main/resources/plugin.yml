@@ -1,0 +1,17 @@
+name: QCGameAlerts
+version: '1.0'
+main: dev.Riley.qCGameAlerts.QCGameAlerts
+api-version: '1.21'
+commands:
+  qcga:
+    description: QC Game Alerts
+    usage: /qcga <announce|cooldown|reload|time>
+permissions:
+  qcga.announce:
+    default: op
+  qcga.reload:
+    default: op
+  qcga.cooldown:
+    default: op
+  qcga.cooldown.time:
+    default: op

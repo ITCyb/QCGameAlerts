@@ -1,0 +1,18 @@
+# <!--- DO NOT MODIFY WITHIN THESE LINE ---!>
+config-version: 3
+# <!--- DO NOT MODIFY WITHIN THESE LINE ---!>
+
+#Plugin prefix
+prefix: <bold><gradient:red:gold:yellow:green:blue:light_purple>QCGames</gradient></bold> <gray>>> </gray>
+
+#Wether or not cooldown mode is enabled
+cooldown-mode: false
+
+#Cooldown in seconds
+cooldown: 30
+
+#This message will be displayed when cooldown-mode is false
+normal-message: "<yellow>%player%</yellow> has joined <yellow>%gametype%</yellow>! Join them at <green>/warp games</green>"
+
+#This message will be displayed when cooldown-mode is true
+cooldown-message: "A player has joined <yellow>%gametype%</yellow>! Join them at <green>/warp games</green>"
